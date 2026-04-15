@@ -2,10 +2,6 @@
 
 Jogo de batalha naval em console desenvolvido em Java.
 
-## 💻 Tecnologias
-- Java
-- MySQL
-
 ## 🎮 Funcionalidades
 - Jogo contra bot
 - Sistema de ranking
@@ -16,4 +12,5 @@ Jogo de batalha naval em console desenvolvido em Java.
 Este projeto foi desenvolvido para fins de estudo.
 
 ## 👨‍💻 Autor
-Francisco Lana
+Francisco Lana Cordeiro
+
