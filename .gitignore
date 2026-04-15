@@ -1,11 +1,3 @@
-# IntelliJ
 .idea/
-
-# Build
 out/
-
-# Arquivos de projeto
 *.iml
-
-# Sistema
-.DS_Store
